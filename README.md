@@ -4,7 +4,7 @@
 - 💞️ I’m looking to Join Akatsuki Coding Club.💻
 -  This Club is made by our college seniors.👨‍🎓
 -  ☺ Ask me for anything I will help.😇
--  🤠My YouTube Channel-
+-  🤠My YouTube Channel- www.youtube.com/c/SoftwareBuddyYash
 - 📫 How to reach me-
 - Just Email me on yashodip2003beldar@gmail.com
 
