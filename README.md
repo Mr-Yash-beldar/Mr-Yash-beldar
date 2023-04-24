@@ -31,7 +31,7 @@ available at
       width="40"
   /></a>
   <a
-    href="https://www.codechef.com/users/https://www.codechef.com/users/sesrc_170"
+    href="https://www.codechef.com/users/sesrc_170"
     target="blank"
     ><img
       align="center"
@@ -41,7 +41,7 @@ available at
       width="40"
   /></a>
   <a
-    href="https://www.hackerrank.com/https://www.hackerrank.com/yashodip_beldar?hr_r=1"
+    href="https://www.hackerrank.com/yashodip_beldar?hr_r=1"
     target="blank"
     ><img
       align="center"
@@ -51,7 +51,7 @@ available at
       width="40"
   /></a>
   <a
-    href="https://www.leetcode.com/https://leetcode.com/yashodip_beldar/"
+    href="https://leetcode.com/yashodip_beldar/"
     target="blank"
     ><img
       align="center"
@@ -61,7 +61,7 @@ available at
       width="40"
   /></a>
   <a
-    href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yashodip20s64t"
+    href="https://auth.geeksforgeeks.org/user/yashodip20s64t"
     target="blank"
     ><img
       align="center"
@@ -104,8 +104,9 @@ available at
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
-    rel="noreferrer">
-    <img src="javascript" alt="javascript" width="40" height="40"/>
+    rel="noreferrer"
+  >
+    <img src="javasxrpo" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
