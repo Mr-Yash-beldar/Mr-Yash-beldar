@@ -9,7 +9,7 @@
   align="right"
   alt="Coding"
   width="400"
-  src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif"
+  src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
 
 - 🌱 I’m currently learning **JavaScript ,DSA** - 👨‍💻 All of my projects are
