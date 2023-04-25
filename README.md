@@ -12,11 +12,11 @@
   src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
 
-- 🌱 I’m currently learning **JavaScript ,DSA** - 👨‍💻 All of my projects are
+<li>🌱 I’m currently learning **JavaScript and DSA** </li><br><li> 👨‍💻 All of my projects are
 available at
-[https://yash-beldar.github.io/Yash-Beldar/](https://yash-beldar.github.io/Yash-Beldar/)
-- 💬 Ask me about **Java, Python** - 📫 How to reach me
-**yashodipbeldar@gmail.com** - ⚡ Fun fact **I think I am Funny**
+[https://yash-beldar.github.io/Yash-Beldar/](https://yash-beldar.github.io/Yash-Beldar/)</li>
+<br><li> 💬 Ask me about **Java, Python**</li> <br> 📫 How to reach me
+**yashodipbeldar@gmail.com** <br><li> ⚡ Fun fact **I think I am Funny**</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
