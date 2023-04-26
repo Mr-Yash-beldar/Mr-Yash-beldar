@@ -11,7 +11,6 @@
   width="400"
   src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
-
 <li>🌱 I’m currently learning **JavaScript and DSA** </li><br><li> 👨‍💻 All of my projects are
 available at
 [https://yash-beldar.github.io/Yash-Beldar/](https://yash-beldar.github.io/Yash-Beldar/)</li>
