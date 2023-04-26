@@ -45,7 +45,7 @@ available at
     target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="https://www.hackerrank.com/yashodip_beldar?hr_r=1"
       height="30"
       width="40"
