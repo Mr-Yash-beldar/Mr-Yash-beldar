@@ -1,6 +1,6 @@
 <img
   align="center"
-  src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"
+  src="https://media.giphy.com/media/ggVzRUi0Wbfr4fEO8v/giphy.gif"
 />
 <h1 align="center">Hi 👋, I'm Yashodip Beldar</h1>
 <h3 align="center">A passionate Programmer from RCPIT,Shirpur</h3>
