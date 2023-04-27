@@ -31,7 +31,7 @@
       ⚡ Fun fact: <b>There are around 700 separate programming languages</b>
     </li>
 
-    <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
     <p align="left">
       <a
         href="https://linkedin.com/in/https://www.linkedin.com/in/yashodip-beldar-593573241/"
