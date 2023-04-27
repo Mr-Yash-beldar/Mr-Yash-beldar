@@ -30,7 +30,6 @@
     <li>
       ⚡ Fun fact: <b>There are around 700 separate programming languages</b>
     </li>
-
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a
