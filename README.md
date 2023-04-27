@@ -11,12 +11,10 @@
   width="400"
   src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
-<li >🌱 I’m currently learning **JavaScript and DSA** </li>
-<li> 👨‍💻 All of my projects are available at
-  <a href="https://yash-beldar.github.io/Yash-Beldar/ target="_blank" style=color:red;" >Here</a></li>
-<li> 💬 Ask me about **Java, Python**</li> <br> 📫 How to reach me
-**yashodipbeldar@gmail.com** 
-<li> ⚡ Fun fact: <b>There are around 700 separate programming languages</b></li>
+<li >🌱 I’m currently learning <b>JavaScript</b> and <b>DSA</b> </li>
+<li> 👨‍💻 All of my projects are available at <a href="https://yash-beldar.github.io/Yash-Beldar/" target="_blank" style=color:red;">Here</a></li>
+  <li> 💬 Ask me about <b>Java<b/>, <b>Python</b></li> <br> 📫 How to reach me <u>yashodipbeldar@gmail.com</u>
+<li>⚡ Fun fact: <b>There are around 700 separate programming languages</b></li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
