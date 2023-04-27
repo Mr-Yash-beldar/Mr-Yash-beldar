@@ -265,5 +265,5 @@
         alt="mr-yash-beldar"
       />
     </p>
-  </u>
-</li>
+ 
+
