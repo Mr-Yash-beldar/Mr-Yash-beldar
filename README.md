@@ -13,7 +13,7 @@
 />
 <li>🌱 I’m currently learning **JavaScript and DSA** </li>
 <br><li> 👨‍💻 All of my projects are available at
-  <a href="https://yash-beldar.github.io/Yash-Beldar/">here</a></li>
+  <a href="https://yash-beldar.github.io/Yash-Beldar/ target="blank">here</a></li>
 <li> 💬 Ask me about **Java, Python**</li> <br> 📫 How to reach me
 **yashodipbeldar@gmail.com** 
 <li> ⚡ Fun fact: <b>There are around 700 separate programming languages</b></li>
