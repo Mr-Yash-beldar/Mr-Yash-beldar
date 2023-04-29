@@ -34,7 +34,7 @@
   <img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="https://www.linkedin.com/in/yashodip-beldar-593573241/"
+    alt="LinkedIn"
     height="30"
     width="40"
   />
@@ -43,7 +43,7 @@
   ><img
     align="center"
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-    alt="https://www.codechef.com/users/sesrc_170"
+    alt="CodeChef"
     height="30"
     width="40"
 /></a>
@@ -51,7 +51,7 @@
   ><img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-    alt="https://www.hackerrank.com/yashodip_beldar?hr_r=1"
+    alt="HackerRank"
     height="30"
     width="40"
 /></a>
@@ -59,7 +59,7 @@
   ><img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-    alt="https://leetcode.com/yashodip_beldar/"
+    alt="LeetCode"
     height="30"
     width="40"
 /></a>
@@ -69,7 +69,7 @@
   ><img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-    alt="https://auth.geeksforgeeks.org/user/yashodip20s64t"
+    alt="GeekForGeeks"
     height="30"
     width="40"
 /></a>
