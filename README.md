@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a
-  href="https://linkedin.com/in/https://www.linkedin.com/in/yashodip-beldar-593573241/"
+  href="https://www.linkedin.com/in/yashodip-beldar-593573241/"
   target="blank">
   <img
     align="center"
