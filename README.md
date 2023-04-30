@@ -232,7 +232,7 @@
 </p>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-yash-beldar&show_icons=true&locale=en&layout=compact"
     alt="mr-yash-beldar"
   />
