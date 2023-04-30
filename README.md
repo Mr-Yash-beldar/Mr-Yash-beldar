@@ -1,5 +1,6 @@
 <img
   align="center"
+  width="100%"
   src="https://media.giphy.com/media/ggVzRUi0Wbfr4fEO8v/giphy.gif"
 />
 <h1 align="center">Hi 👋, I'm Yashodip Beldar</h1>
