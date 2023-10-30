@@ -184,5 +184,6 @@
     alt="mr-yash-beldar"
   />
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Yash-beldar&theme=radical&hide_border=true)](https://git.io/streak-stats)
- 
+<p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Yash-beldar&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+</p>
