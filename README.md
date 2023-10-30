@@ -166,24 +166,25 @@
     />
   </a
 </p>
-<p>
-  <img
-    align="center"
-       width="494"
-       height="194"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-yash-beldar&show_icons=true&locale=en&layout=compact"
-    alt="mr-yash-beldar"
-  />
-</p>
-<p>
-  &nbsp;<img
-    align="center"
-    width="494"
-    height"194"
-    src="https://github-readme-stats.vercel.app/api?username=mr-yash-beldar&show_icons=true&locale=en"
-    alt="mr-yash-beldar"
-  />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img
+      width="494"
+      height="194"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-yash-beldar&show_icons=true&locale=en&layout=compact"
+      alt="mr-yash-beldar"
+    />
+  </div>
+  <div>
+    <img
+      width="494"
+      height="194"
+      src="https://github-readme-stats.vercel.app/api?username=mr-yash-beldar&show_icons=true&locale=en"
+      alt="mr-yash-beldar"
+    />
+  </div>
+</div>
+
 <p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Yash-beldar&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </p>
