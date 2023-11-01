@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Yash-beldar&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Yash-beldar" /> </p>
 <img
   align="center"
   width="100%"
@@ -166,12 +167,17 @@
     />
   </a
 </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Yash-beldar" alt="Mr-Yash-beldar" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div style="display: flex; justify-content: space-between;">
   <div>
     <img
       width="494"
       height="194"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-yash-beldar&show_icons=true&locale=en&layout=compact"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Yash-beldar"
       alt="mr-yash-beldar"
     />
   </div>
