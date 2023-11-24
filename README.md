@@ -1,34 +1,40 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Yash-beldar&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Yash-beldar" /> </p>
+
 <img
   align="center"
   width="100%"
   height="20%"
   src="https://media.giphy.com/media/ggVzRUi0Wbfr4fEO8v/giphy.gif"
 />
-<h1 align="center">Hi 👋, I'm Yashodip Beldar</h1>
-<h3 align="center">A passionate Programmer from RCPIT,Shirpur</h3>
-
+<h1 align="center">Hi 👋, I'm Yashodip </h1>
+<h3 align="center"> **I do Code and Fun ❤️😁**</h3>
+<!-- <h4 align="center">My Portfolio: https://pruthviraj-portfolio-site.netlify.app/ </h4> -->
+<div align="center">
+<!--   <a align="center" href="https://drive.google.com/file/d/1gHOzYl3ycGLM22IROSQSUX3CcdakW2ZY/view">
+    <strong>My Resume</strong> </a>-->
+</div>
 <img
   align="right"
   alt="Coding"
   width="400"
   src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
-<li>🌱 I’m currently learning <b>JavaScript</b> and <b>DSA</b></li>
-<li>
-  👨‍💻 All of my projects are available at
-  <a
-    href="https://yash-beldar.github.io/Yash-Beldar/"
-    target="_blank"
-    style="color: red"
-    >Here</a
-  >
-</li>
-<li>💬 Ask me about Java, Python</li>
-<li>📫 How to reach me :<u>yashodipbeldar@gmail.com</u></li>
-<li>
-  ⚡ Fun fact: <b>There are around 700 separate programming languages</b>
-</li>
+
+## About Me
+
+- 🔭 I’m B.Tech computer science student and I will Graduate in 2025. 
+
+- 🌱 I’m currently learning **React** and **Data Structures**
+
+- 👯 I’m solved around 200+ DSA problems on various platforms.
+ 
+- 💬 Ask me about NodeJS, Python
+  
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/Mr-Yash-beldar?tab=repositories)**
+
+- 📫 How to reach me **yashodipbeldar@gmail.com**
+
+- ⚡ Fun fact: **There are around 700 separate programming languages**
+
 
 ## **Coding Profiles**:
 
