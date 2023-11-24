@@ -35,9 +35,10 @@
 <p align="left"> 
     <a href="https://auth.geeksforgeeks.org/user/yashodip20s64t"
        target="_blank"> <img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/> </a>
-    <a href="https://leetcode.com/pruthviraj_chaudhari_20/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>   
-    <a href="https://www.codechef.com/users/sesrc_04" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>    
-    <a href="https://www.hackerrank.com/chaudharipruthv1" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>   
+    <a href="https://leetcode.com/yashodip_beldar/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> </a>   
+    <a href="https://www.codechef.com/users/sesrc_170" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/codechef.png"/> </a>    
+    <a href="https://www.hackerrank.com/yashodip_beldar?hr_r=1"
+      target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/> </a>   
 </p>
 
 
@@ -67,7 +68,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Yash-beldar&theme=radical&hide_border=true&background=50%2CF7ACAC%2C92A8D1" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Yash-beldar&theme=radical&hide_border=true&background=50%2CF7ACAC%2C92C8D1" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -76,8 +77,8 @@
 ## My Github Statistics
 
   <br/>
-    <a href="https://github.com/pruthviraj-chaudhari/github-readme-stats"><img alt="Pruthviraj Chaudhari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pruthviraj-chaudhari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pruthviraj-chaudhari/github-readme-stats"><img alt="Pruthviraj Chaudhari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviraj-chaudhari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Mr-Yash-beldar/github-readme-stats"><img alt="Yashodip Beldar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mr-Yash-beldar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Mr-Yash-beldar/github-readme-stats"><img alt="Yashodip Beldar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Yash-beldar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
@@ -111,127 +112,13 @@
 
 ## Connect with me:
 
-<p align="left">
-  <a href = "https://www.instagram.com/pruthviraj_chaudhari_20/?r=nametag"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
-<a href = "http://linkedin.com/in/pruthviraj-chaudhari-8386ab230"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-<a href = "https://twitter.com/Pruthviraj_2011"><img src="https://img.icons8.com/fluency/48/twitter.png"/></a>
+<p align="center">
+  <a href = "https://www.linkedin.com/in/yashodip-beldar-593573241/"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
+  <a href = "https://www.instagram.com/yeshu.py/?r=nametag"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
 </p>
 
 ## 👀 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pruthviraj-chaudhari">
+    <img src="https://komarev.com/ghpvc/?username=Mr-Yash-beldar">
 </a>
-<a href="https://github.com/pruthviraj-chaudhari?tab=followers"><img src="https://img.shields.io/github/followers/pruthviraj-chaudhari?label=Followers&style=social" alt="GitHub Badge"></a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a
-  href="https://www.linkedin.com/in/yashodip-beldar-593573241/"
-  target="blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
-    height="30"
-    width="40"
-  />
-</a>
-<a href="https://www.codechef.com/users/sesrc_170" target="blank"
-  ><img
-    align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-    alt="CodeChef"
-    height="30"
-    width="40"
-/></a>
-<a href="https://www.hackerrank.com/yashodip_beldar?hr_r=1" target="blank"
-  ><img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-    alt="HackerRank"
-    height="30"
-    width="40"
-/></a>
-<a href="https://leetcode.com/yashodip_beldar/" target="blank"
-  ><img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-    alt="LeetCode"
-    height="30"
-    width="40"
-/></a>
-<a
-  href=""
-  target="blank"
-  ><img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-    alt="GeekForGeeks"
-    height="30"
-    width="40"
-/></a>
-</p
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  
- 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a
-</p>
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div style="display: flex; justify-content: space-between;">
-  <div align left>
-    <img
-      width="494"
-      height="194"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Yash-beldar"
-      alt="mr-yash-beldar"
-    />
-  </div>
-  <div>
-    <img
-      width="494"
-      height="194"
-      src="https://github-readme-stats.vercel.app/api?username=mr-yash-beldar&show_icons=true&locale=en"
-      alt="mr-yash-beldar"
-    />
-  </div>
-</div>
-
-<p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Yash-beldar&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+<a href="https://github.com/Mr-Yash-beldar?tab=followers"><img src="https://img.shields.io/github/followers/Mr-Yash-beldar?label=Followers&style=social" alt="GitHub Badge"></a>
