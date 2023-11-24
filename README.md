@@ -169,11 +169,10 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Yash-beldar" alt="Mr-Yash-beldar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div style="display: flex; justify-content: space-between;">
-  <div>
+  <div align left>
     <img
       width="494"
       height="194"
