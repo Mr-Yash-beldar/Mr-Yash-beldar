@@ -6,7 +6,8 @@
   src="https://media.giphy.com/media/ggVzRUi0Wbfr4fEO8v/giphy.gif"
 />
 <h1 align="center">Hi 👋, I'm Yashodip </h1>
-<h3 align="center"> **I do Code and Fun ❤️😁**</h3>
+
+<h2 align="center">I do Code and Fun ❤️😁</h2>
 <!-- <h4 align="center">My Portfolio: https://pruthviraj-portfolio-site.netlify.app/ </h4> -->
 <div align="center">
 <!--   <a align="center" href="https://drive.google.com/file/d/1gHOzYl3ycGLM22IROSQSUX3CcdakW2ZY/view">
@@ -15,7 +16,8 @@
 <img
   align="right"
   alt="Coding"
-  width="400"
+  width="450"
+  height="400"
   src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
 
@@ -93,7 +95,7 @@
 
 ## See my Contributions
 <div align="center">
-  <a href="https://github.com/pruthviraj-chaudhari/weather-web-app">
+<!--   <a href="https://github.com/pruthviraj-chaudhari/weather-web-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-chaudhari&repo=weather-web-app" alt="Github Repo Card" />
   </a>
   <a href="https://github.com/pruthviraj-chaudhari/NewsLetter-Using-Express">
@@ -110,7 +112,7 @@
   </a>
   <a href="https://github.com/pruthviraj-chaudhari/New-Modern-Portfolio-Site">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-chaudhari&repo=New-Modern-Portfolio-Site" alt="Github Repo Card" />
-  </a>
+  </a> -->
 </div>
 
 <br/>
