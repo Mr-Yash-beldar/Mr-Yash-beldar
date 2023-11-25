@@ -17,7 +17,7 @@
   align="right"
   alt="Coding"
   width="450"
-  height="400"
+  height="370"
   src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
 
