@@ -20,7 +20,7 @@
   height="400"
   src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
-<br/>
+
 ## About Me
 
 - 🔭 I’m B.Tech computer science student and I will Graduate in 2025. 
@@ -36,7 +36,6 @@
 - 📫 How to reach me **yashodipbeldar@gmail.com**
 
 - ⚡ Fun fact: **There are around 700 separate programming languages**
-
 
 ## **Coding Profiles**:
 
