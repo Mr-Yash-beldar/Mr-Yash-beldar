@@ -125,7 +125,9 @@
 </p>
 
 ## 👀 Views and Followers
+<p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Mr-Yash-beldar">
 </a>
 <a href="https://github.com/Mr-Yash-beldar?tab=followers"><img src="https://img.shields.io/github/followers/Mr-Yash-beldar?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
