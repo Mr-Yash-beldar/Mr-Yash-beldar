@@ -98,7 +98,7 @@
   </a>
  
   <a href="https://github.com/Mr-Yash-beldar/StudyBuddy-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Yash-beldar&repo="StudyBuddy-App" alt="Github Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Yash-beldar&repo=StudyBuddy-App" alt="Github Repo Card" />
   </a>
    <!--
   <a href="https://github.com/pruthviraj-chaudhari/Sticky-Notes">
