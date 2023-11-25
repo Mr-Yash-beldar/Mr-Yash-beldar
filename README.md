@@ -20,7 +20,7 @@
   height="400"
   src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
-
+<br/>
 ## About Me
 
 - 🔭 I’m B.Tech computer science student and I will Graduate in 2025. 
