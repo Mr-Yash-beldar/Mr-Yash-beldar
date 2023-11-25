@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Yash-beldar&theme=radical&hide_border=true&background=50%2CF7ACAC%2C92C8D1" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Yash-beldar&theme=radical&hide_border=true&background=50%2CF7ACAC%2B92C8D1" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -84,7 +84,7 @@
 
   <br/>
     <a href="https://github.com/Mr-Yash-beldar/github-readme-stats"><img alt="Yashodip Beldar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mr-Yash-beldar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Mr-Yash-beldar/github-readme-stats"><img alt="Yashodip Beldar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Yash-beldar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Mr-Yash-beldar/github-readme-stats"><img align="right" alt="Yashodip Beldar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Yash-beldar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
