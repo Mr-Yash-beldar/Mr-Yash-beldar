@@ -93,8 +93,8 @@
 
 ## See my Contributions
 <div align="center">
-   <a href="https://github.com/Mr-Yash-beldar/Budget-Buddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Yash-beldar&repo=budget-buddy" alt="Github Repo Card" />
+   <a href="https://github.com/Mr-Yash-beldar/Budget_Buddy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Yash-beldar&repo=budget_buddy" alt="Github Repo Card" />
   </a>
   <!--
   <a href="https://github.com/pruthviraj-chaudhari/NewsLetter-Using-Express">
