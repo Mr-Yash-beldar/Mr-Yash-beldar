@@ -96,10 +96,11 @@
    <a href="https://github.com/Mr-Yash-beldar/Budget_Buddy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Yash-beldar&repo=budget_buddy" alt="Github Repo Card" />
   </a>
-  <!--
-  <a href="https://github.com/pruthviraj-chaudhari/NewsLetter-Using-Express">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-chaudhari&repo=NewsLetter-Using-Express" alt="Github Repo Card" />
+ 
+  <a href="https://github.com/Mr-Yash-beldar/StudyBuddy-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Yash-beldar&repo=StudyBuddy-App" alt="Github Repo Card" />
   </a>
+   <!--
   <a href="https://github.com/pruthviraj-chaudhari/Sticky-Notes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-chaudhari&repo=Sticky-Notes" alt="Github Repo Card" />
   </a>
