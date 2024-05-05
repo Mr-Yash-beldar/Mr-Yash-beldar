@@ -101,19 +101,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Yash-beldar&repo=StudyBuddy-App" alt="Github Repo Card" />
   </a>
   
-   <!--
-  <a href="https://github.com/pruthviraj-chaudhari/Sticky-Notes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-chaudhari&repo=Sticky-Notes" alt="Github Repo Card" />
-  </a>
-  <a href="https://github.com/pruthviraj-chaudhari/PortfolioSite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-chaudhari&repo=PortfolioSite" alt="Github Repo Card" />
-  </a>
-  <a href="https://github.com/pruthviraj-chaudhari/Online-Job-Portal-using-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-chaudhari&repo=Online-Job-Portal-using-Java" alt="Github Repo Card" />
-  </a>
-  <a href="https://github.com/pruthviraj-chaudhari/New-Modern-Portfolio-Site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-chaudhari&repo=New-Modern-Portfolio-Site" alt="Github Repo Card" />
-  </a> -->
+
 </div>
 
 <br/>
