@@ -8,10 +8,10 @@
 <h1 align="center">Hi 👋, I'm Yashodip </h1>
 
 <h2 align="center">I do Code and Fun ❤️😁</h2>
-<!-- <h4 align="center">My Portfolio: https://pruthviraj-portfolio-site.netlify.app/ </h4> -->
+<h4 align="center">My Portfolio: https://yashodip.developerverse.tech/ </h4>
 <div align="center">
-<!--   <a align="center" href="https://drive.google.com/file/d/1gHOzYl3ycGLM22IROSQSUX3CcdakW2ZY/view">
-    <strong>My Resume</strong> </a>-->
+  <a align="center" href="https://yashodip.developerverse.tech/static/media/resume.9284e68a.pdf">
+    <strong>My Resume</strong> </a>
 </div>
 <img
   align="right"
